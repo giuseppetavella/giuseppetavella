@@ -9,7 +9,7 @@ Research on how to solve mental and emotional issues through technology and soft
 💞️ I’m looking to collaborate on anything related to the understanding and
 computing of the human mind through tech 
 
-📫 How to reach me - [giuseppetavella.com/youtube](https://giuseppetavella.com/youtube) | [giuseppe@giuseppetavella.com](giuseppe@giuseppetavella.com)
+📫 How to reach me - [giuseppetavella.com/youtube](https://giuseppetavella.com/youtube) | [giuseppe@giuseppetavella.com](mailto: giuseppe@giuseppetavella.com)
 
 <!---
 giuseppetavella/giuseppetavella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
