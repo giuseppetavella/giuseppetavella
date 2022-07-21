@@ -2,12 +2,12 @@
 helping people in mental health for quite a decade [giuseppetavella.com/success-stories](https://giuseppetavella.com/success-stories) 
 
 👀 Very interested in the intersection of mental health and technology. 
-Research on how to solve mental and emotional issues through technology and software.
+Research on how to solve mental and emotional issues through technology.
 
 🌱 Current focus: Data science, Maching learning, Python, Algorithms 
 
 💞️ I’m looking to collaborate on anything related to the understanding and
-computing of the human mind through tech 
+computing of the human mind through software 
 
 📫 How to reach me - [giuseppetavella.com/youtube](https://giuseppetavella.com/youtube) | giuseppe@giuseppetavella.com
 
